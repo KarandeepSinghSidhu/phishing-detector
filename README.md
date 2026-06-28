@@ -20,8 +20,6 @@ This project is an automated tool for detecting, quarantining, and alerting abou
 
 - [Disclaimer](#disclaimer)
 
-- [License](#license)
-
 ---
 
 ## Features
@@ -60,8 +58,8 @@ This project is an automated tool for detecting, quarantining, and alerting abou
 
 ```bash
 
-    git clone https://github.com/jagdishtripathy/Email-phishing-detector.git
-    cd Email-phishing-detector
+    git clone https://github.com/KarandeepSinghSidhu/phishing-detector.git
+    cd phishing-detector
 ```
 
 2\. **Create a Virtual Environment** (optional but recommended):
